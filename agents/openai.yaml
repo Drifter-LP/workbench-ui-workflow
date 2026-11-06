@@ -1,0 +1,4 @@
+interface:
+  display_name: "网站界面设计与验收"
+  short_description: "根据网站任务选择组件、补齐交互状态，并将设计预览与真实页面对照验收"
+  default_prompt: "使用 $workbench-ui-workflow 改进这个网站，先列出本次组件规格和完整状态，再按需输出 PNG、实现并对照实际页面验收。"
